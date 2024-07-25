@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.0rc3] - 2024-07-25
+
+### Fixed
+
+- Revert workflow changes, can't share private workflows with public repos.
+
 ## [2.0.0rc2] - 2024-07-24
 
 ### Added
